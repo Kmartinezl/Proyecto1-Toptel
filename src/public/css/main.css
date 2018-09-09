@@ -1,0 +1,41 @@
+  .login {
+    background: #2fbbaf;
+    background: -webkit-linear-gradient(to right, #6380e0, #2f37ab);
+    background: linear-gradient(to right, #638be0, #4a2fab);
+    }
+
+  .signup {
+    background: #2fbbaf;
+    background: -webkit-linear-gradient(to right, #6380e0, #2f37ab);
+    background: linear-gradient(to right, #638be0, #4a2fab);
+    }
+
+  .index {
+    background: #2fbbaf;
+    background: -webkit-linear-gradient(to right, #6380e0, #2f37ab);
+    background: linear-gradient(to right, #638be0, #4a2fab);
+    }
+
+  .profile {
+    background: ##2000ab;
+    background: -webkit-linear-gradient(to right, #6380e0, #2f37ab);
+    background: linear-gradient(to right, #638be0, #4a2fab);
+    }
+
+  .map {
+    background: #2fbbaf;
+    background: -webkit-linear-gradient(to right, #6380e0, #2f37ab);
+    background: linear-gradient(to right, #638be0, #4a2fab);
+    }
+
+  #izquierda {
+    float:left;
+    width:2100px;
+    margin:10px;
+    }
+
+  #derecha {
+    float:left;
+    width:500px;
+    margin:10px;
+  }
